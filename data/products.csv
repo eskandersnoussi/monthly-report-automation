@@ -1,0 +1,48 @@
+sku,product,category,unit_cost,unit_price,reorder_level
+P001,"Paracetamol 500 mg, 20 tablets",Pain & fever,22.55,40.17,300
+P002,"Ibuprofen 200 mg, 30 tablets",Pain & fever,28.7,56.65,220
+P003,"Ibuprofen gel 5%, 50 g",Pain & fever,46.12,91.67,60
+P004,"Acetylsalicylic acid 500 mg, 20 tablets",Pain & fever,25.62,46.35,60
+P005,Paracetamol oral solution for children,Pain & fever,49.2,91.67,50
+P006,"Decongestant nasal spray, 10 ml",Cold & flu,35.88,71.07,180
+P007,"Throat lozenges, 24 pcs",Cold & flu,30.75,60.77,140
+P008,"Cough syrup, 200 ml",Cold & flu,56.37,112.27,80
+P009,"Hot lemon cold drink, 10 sachets",Cold & flu,41.0,81.37,70
+P010,Saline nasal drops,Cold & flu,25.62,50.47,60
+P011,"Cetirizine 10 mg, 30 tablets",Allergy,35.88,81.37,80
+P012,"Loratadine 10 mg, 30 tablets",Allergy,38.95,87.55,60
+P013,Allergy eye drops,Allergy,53.3,112.27,40
+P014,Allergy nasal spray,Allergy,71.75,143.17,40
+P015,"Vitamin D 1000 IU, 100 capsules",Vitamins & supplements,61.5,132.87,80
+P016,"Omega-3 fish oil, 120 capsules",Vitamins & supplements,112.75,235.87,60
+P017,"Multivitamin, 60 tablets",Vitamins & supplements,76.88,163.77,50
+P018,"Vitamin C 500 mg, 60 tablets",Vitamins & supplements,46.12,101.97,40
+P019,"Iron supplement, 60 tablets",Vitamins & supplements,51.25,112.27,30
+P020,"Magnesium, 120 tablets",Vitamins & supplements,56.37,122.57,40
+P021,"Moisturising cream, 200 ml",Skin care,71.75,153.47,60
+P022,"Sunscreen SPF 50, 200 ml",Skin care,97.37,204.97,40
+P023,Lip balm,Skin care,18.45,46.35,90
+P024,Hydrocortisone cream 1%,Skin care,41.0,91.67,40
+P025,"Aftersun lotion, 200 ml",Skin care,61.5,132.87,20
+P026,"Hand cream, 100 ml",Skin care,35.88,81.37,60
+P027,Antacid chewable tablets,Digestive health,32.8,71.07,70
+P028,"Laxative, 30 tablets",Digestive health,46.12,97.85,40
+P029,Oral rehydration salts,Digestive health,41.0,87.55,30
+P030,"Probiotic capsules, 30 pcs",Digestive health,97.37,204.97,30
+P031,Anti-diarrhoea capsules,Digestive health,38.95,81.37,30
+P032,"Plasters, assorted 40 pcs",First aid,22.55,50.47,100
+P033,Elastic bandage,First aid,30.75,71.07,30
+P034,"Antiseptic solution, 100 ml",First aid,35.88,77.25,40
+P035,Blister plasters,First aid,46.12,101.97,40
+P036,Digital thermometer,First aid,92.25,204.97,15
+P037,"Nappy cream, 100 ml",Baby & child,46.12,101.97,40
+P038,Teething gel,Baby & child,49.2,101.97,20
+P039,"Baby wipes, 3-pack",Baby & child,41.0,91.67,50
+P040,"Infant formula, 800 g",Baby & child,194.75,277.07,30
+P041,Sensitive toothpaste,Personal care,30.75,60.77,80
+P042,"Deodorant, 50 ml",Personal care,35.88,71.07,60
+P043,Shampoo for dry scalp,Personal care,66.62,143.17,30
+P044,"Contact lens solution, 360 ml",Personal care,71.75,153.47,30
+P045,"Condoms, 10 pcs",Personal care,61.5,132.87,40
+P046,Prescription medicines (generic),Prescription medicines,164.0,190.55,600
+P047,Prescription medicines (original brand),Prescription medicines,430.5,484.1,250
